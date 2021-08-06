@@ -2,9 +2,9 @@
 <img src="https://github.com/Rizq-Solutions/etiqacoronatracker/blob/rizqbazaar/public/screenshot01.png" width="100%">
 
 ## Documentation
-The documentation for this assessment for R. Aidy using Vue Argon Dashboard available here [website](https://dist-gispatial.vercel.app/).
+The documentation for this assessment for R. Aidy using Argon Dashboard:  [website](https://dist-gispatial.vercel.app/).
 
-## Main Sourcecode to API [website](https://github.com/Rizq-Solutions/etiqatracker).
+### Main Sourcecode task of https://disease.sh/docs/ available here [github](https://github.com/Rizq-Solutions/etiqatracker).
 ## File Structure
 Within the download you'll find the following directories and files:
 
