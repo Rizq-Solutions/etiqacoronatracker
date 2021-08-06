@@ -4,6 +4,12 @@
 ## Documentation
 The documentation for this assessment for R. Aidy using Argon Dashboard:  [website](https://dist-gispatial.vercel.app/).
 
+# Howto
+$ yarn
+
+# Deploy on localhost:8080
+$ yarn serve
+
 ### Main Sourcecode task of https://disease.sh/docs/ available here [github](https://github.com/Rizq-Solutions/etiqatracker).
 ## File Structure
 Within the download you'll find the following directories and files:
