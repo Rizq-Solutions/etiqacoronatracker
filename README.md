@@ -1,4 +1,4 @@
-# [Vue Etiqa Corona Virus Tracker Assessment]
+# [Vue Etiqa Corona Virus Tracker Assessment Built with TailwindCSS]
 
 ## Documentation
 The documentation for this assessment for R. Aidy using Vue Argon Dashboard available here [website](https://dist-gispatial.vercel.app/).
@@ -111,10 +111,4 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: <https://demos.creative-tim.com/vue-argon-dashboard/#/dashboard?ref=ada-github-readme>
-- Download Page: <https://www.creative-tim.com/product/vue-argon-dashboard?ref=ada-github-readme>
-- Documentation: <https://demos.creative-tim.com/vue-argon-dashboard/documentation/#/tutorial?ref=ada-github-readme>
-- License Agreement: <https://www.creative-tim.com/license?ref=ada-github-readme>
-- Support: <https://www.creative-tim.com/contact-us?ref=ada-github-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/vue-argon-dashboard/issues?ref=ada-github-readme)
-
+- Deployed Url on Vercel: <https://dist-gispatial.vercel.app/>
