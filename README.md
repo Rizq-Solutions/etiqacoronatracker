@@ -1,4 +1,5 @@
-# [Vue Etiqa Corona Virus Tracker Assessment Built with TailwindCSS]
+# [Vue Etiqa Ncov Tracker Assessment Built with TailwindCSS]
+<img src="https://github.com/Rizq-Solutions/etiqacoronatracker/blob/rizqbazaar/public/screenshot01.png" width="100%">
 
 ## Documentation
 The documentation for this assessment for R. Aidy using Vue Argon Dashboard available here [website](https://dist-gispatial.vercel.app/).
